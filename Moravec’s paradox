@@ -1,0 +1,37 @@
+documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Moravec’s paradox}
+
+\date{July 27 2021}
+
+\begin{document}
+
+\maketitle
+Moravec’s paradox is the observation by artificial intelligence and robotics
+researchers that, contrary to traditional assumptions, reasoning requires very
+little computation, but sensorimotor skills require enormous computational resources. The principle was articulated by Hans Moravec, Rodney Brooks, Marvin Minsky.that is according to moravec its is easy to make computer exhibit
+adult level performance on intelligence tests or playing checkers, and difficult or
+impossible to give them the skills of a one-year-old when it comes to perception
+and mobility”
+
+
+
+One possible explanation of the paradox, offered by Moravec, is based on evolution. All human skills are implemented biologically, using machinery designed
+by the process of natural selection. In the course of their evolution, natural
+selection has tended to preserve design improvements and optimizations. The
+older a skill is, the more time natural selection has had to improve the design.
+Abstract thought developed only very recently, and consequently, we should not
+expect its implementation to be particularly efficient.
+that is in simple way we can say that Some examples of skills that have been
+evolving for millions of years: recognizing a face, moving around in space, judging people’s motivations, catching a ball, recognizing a voice, setting appropriate
+goals, paying attention to things that are interesting; anything to do with perception, attention, visualization, motor skills, social skills and so on.
+Some examples of skills that have appeared more recently: mathematics,
+engineering, games, logic and scientific reasoning. These are hard for us because
+they are not what our bodies and brains were primarily evolved to do. These are
+skills and techniques that were acquired recently, in historical time, and have
+had at most a few thousand years to be refined, mostly by cultural evolution.
+1
+
+
+\end{document}
