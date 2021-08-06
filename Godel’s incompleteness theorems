@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Godel’s incompleteness theorems}
+
+
+\date{21/07/2021}
+
+
+\begin{document}
+
+\maketitle
+Godel's incompleteness theorems are two theorems of mathematical logic that are concerned with the limits of provability in formal axiomatic theories. These results, published by Kurt Godel in 1931, are important both in mathematical logic and in the philosophy of mathematics.Also, mathematical ideas should not have contradictions. This means that they should not be true and false at the same time. A system that does not include contradictions is called consistent.
+
+
+
+
+      The first incompleteness theorem states that no consistent system of axioms
+whose theorems can be listed by an effective procedure (i.e., an algorithm) is
+capable of proving all truths about the arithmetic of natural numbers. For any
+such consistent formal system, there will always be statements about natural
+numbers that are true, but that are unprovable within the system. The second
+incompleteness theorem, an extension of the first, shows that the system cannot
+demonstrate its own consistency.
+ 
+ 
+ 
+ 
+ 
+Employing a diagonal argument, G¨odel’s incompleteness theorems were the
+first of several closely related theorems on the limitations of formal systems.
+They were followed by Tarski’s undefinability theorem on the formal undefinability of truth, Church’s proof that Hilbert’s Entscheidungsproblem is unsolvable,
+and Turing’s theorem that there is no algorithm to solve the halting problem.
+
+
+\end{document}
