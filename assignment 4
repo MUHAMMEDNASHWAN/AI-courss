@@ -1,0 +1,57 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{assignment 4 }
+\author{Muhammed Nashwan }
+\date{6/08/ 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Can AI be used to understand facts about life on Mars}
+A.I. is used almost everywhere, one such use of A.I. is to detect and examine life on mars.Current space
+exploration missions use AI and machine learning capabilities in many areas of space operations including
+mission planning and operations, data collection, autonomous navigation and maneuvering, and spacecraft
+maintenance. Future missions will need to rely on the same.The National Aeronautics and Space Administration
+(NASA) is training the system of Artificial Intelligence that will aid scientists in their quest to look for signs of
+ancient life on Mars and other planets.
+The European Space Agency (ESA) Rosalind Franklin ’ExoMars’ rover will be the first to have the new AI
+system when it leaves for the Red Planet in 2022/2023. One benefit we get by using AI to anlyse rocks on Mars
+and to detect life forms is that It costs a lot of time and money to send the data back to Earth which means
+scientists can’t run as many experiments or analyze as many samples,By using AI to do an initial analysis of
+the data after it is collected but before it is sent back to Earth, NASA can optimize what we receive, which
+greatly increases the scientific value of space missions.This software is called MOMA Mars Organic Molecule
+Analyser. SOME OF THE MAIN AREAS WHERE WE USE AI FOR MARS EXPLORATION
+• Mission Operations-AI is used for autonomous operations for space missions. Through the European
+Space Agency’s (ESA) technology transfer program, the Italian start-up company, AIKO, developed
+a software library called MiRAGE that is used to enable autonomous operations for space missions.
+Using these operations, the spacecraft itself can perform autonomous replanning, detect events (both
+internal and external), and react accordingly, ensuring fulfillment of mission objectives without the
+delays introduced by the decision-making process on the ground.6
+• Data Collection-AI used aboard spacecraft can autonomously detect and characterize features that are
+nominal, such as typical weather patterns, and differentiate them from unusual patterns like smoke
+plumes from volcanic activity to create maps and data sets. We can use AI to determine which data sets
+are important to send to ground segments for processing. We can also use AI technologies to remove
+data that provides little to no significance. This can ease burdens or constraints the space-to-ground
+networks experience with the transmission of large-volume data.
+• Autonomous Navigation Maneuvering-during Perseverance’s arrival to Mars, ground operation com-
+munication capabilities do not always allow for continuous human monitoring and operations of the
+spacecraft. Autonomy in navigation allows for spacecraft to travel through interstellar space and perform
+complex maneuvers for arriving at and landing on distant celestial objects. Human intervention to
+control a spacecraft cannot occur in real-time from the ground due to the lag in communications in
+deep space. Since spacecraft cannot wait for commands in given situations that require immediate
+determinations, using AI and machine learning facilitates guiding and maneuvering a spacecraft while
+freeing up human resources for other mission activities.
+\maketitle
+\section{PAST THINGS WHICH AI HAS HELPED IN ASTRONOMY}
+Enhanced Imagery-using AI
+• Monitoring the Health of Satellites
+• Analyzing THE FIRST IMAGE OF BLACK HOLE M87
+\maketitle
+\section{CONCLUSION}
+Over the last few years we have continued to see a large effort to commercialize space.Artificial intelligence
+is working to make space commercialization a possibility and to make space a safe environment in which to
+operate. The various benefits of AI in space all work together to enable further venturing into the unknown.
+With help of AI the pseudoscience that Life of MARS can be converted into Science.
+\end{document}
